@@ -70,7 +70,7 @@ const styles = StyleSheet.create({
         alignSelf: 'center'
     },
     box: {
-        width: 200,
+        width: 220,
         height: 100,
         alignItems: 'center',
         justifyContent: 'center',
